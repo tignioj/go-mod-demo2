@@ -1,7 +1,5 @@
 package mymode2
 
-import "fmt"
-
-func HelloMode2() {
-	fmt.Println("Hello Mode2")
+func HelloMode2() string {
+	return "Hello Mode2"
 }
